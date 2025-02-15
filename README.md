@@ -1,8 +1,8 @@
-# THIS REPO IS ABANDONED AND WILL BE REMOVED ON 31.3.2025
+# THIS REPO IS ABANDONED AND WILL BE REMOVED ON 30.4.2025
 
 If you still need this code, copy this repository's contents to your project.
 
-This repository will be deleted on 31.3.2025.
+This repository will be deleted on 30.4.2025.
 
 --------------------
 
